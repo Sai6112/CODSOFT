@@ -1,0 +1,1 @@
+rps_task1 is a python file in which CodSoft Task 1 - ROCK PAPER SCISSOR code has been written by P.Sai Shiva. It is a console-based game so, it can be run in any Editor or IDE or simply Command Prompt.
